@@ -1,7 +1,7 @@
 ### Olá pessoa, me chamo Vítor Romão 👋
 
 - 🔭 I’m currently looking for a job...  ----- 📧 Contate-me no email: Zxvitor1@hotmail.com
-- 🌱 Estudando NODEJS ------🔒Proximo passo, desbloquear: ReactJS
+- 🌱 Estudando ReactJS ------🔒Proximo passo, me aprofundar em  ReactJS.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviVromao&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div align="left-center">
+<img height="67em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="67em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img height="50em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
