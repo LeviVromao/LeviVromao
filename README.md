@@ -1,7 +1,7 @@
 ### Olá pessoa, me chamo Vítor Romão 👋
 
-- 🔭 I’m currently looking for a job...  ----- 📧 Contate-me no email: Zxvitor1@hotmail.com
-- 🌱 Estudando ReactJS ------🔒Proximo passo, me aprofundar em  ReactJS.
+- 🔭 I’m currently looking for a job...  ----- 📧 Contate-me no email: zxvitor1@hotmail.com
+- 🌱 Estudando NodeJS ------🔒Proximo passo, aprender NextJS e ReactJS.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
