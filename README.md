@@ -1,7 +1,7 @@
 ### Olá pessoa, me chamo Vítor Romão 👋
 
 - 🔭 I’m currently looking for a job...  ----- 📧 Contate-me no email: zxvitor1@hotmail.com
-- 🌱 Estudando PHP laravel e TypeScript  ------🔒Proximo passo, construir um portifolio com o que eu ja criei.
+- 🌱 Estudando PHP laravel e TypeScript  ------🔒Proximo passo, aplicar para vagas no mercado.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
