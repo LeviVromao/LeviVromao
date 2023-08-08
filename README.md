@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently looking for a job...  ----- 📧 Contate-me no email: zxvitor1@hotmail.com
 - 🌱 Estudando PHP laravel e TypeScript  ------🔒Proximo passo, aplicar para vagas no mercado.
+- Projetos:
+    - <a href='https://watch-party-levi.vercel.app/' target='_blank' >Watch Party</a>: Uma plataforma onde é possível conversar com amigos por chat enquanto assistem vídeos simultaneamente.
+    - <a href='https://clone-netflix-ten-eta.vercel.app/' target='_blank'>Clone Netflix</a>: Um site com foco no design, utilizando uma API de filmes para obter informações sobre séries e filmes populares atualmente. 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
