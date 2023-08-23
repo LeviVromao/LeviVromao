@@ -7,7 +7,7 @@
     - <a href='https://clone-netflix-ten-eta.vercel.app/' target='_blank'>Clone Netflix</a>: Um site com foco no design, utilizando uma API de filmes para obter informações sobre séries e filmes populares atualmente. 
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/leviVromao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leviVromao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviVromao&layout=compact&langs_count=7&theme=blue-green"/>
@@ -20,7 +20,7 @@
 <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
-
+!-->
 ##
 
 <div>
