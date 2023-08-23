@@ -11,7 +11,7 @@
   <a href="https://github.com/leviVromao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leviVromao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviVromao&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+</div> !-->
 <div align="left-center" display="flex">
 <img height="67em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="67em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -20,7 +20,7 @@
 <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
-!-->
+
 ##
 
 <div>
