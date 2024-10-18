@@ -4,7 +4,7 @@
 - 🌱 Proximo passo, aplicar para vagas no mercado e construir mais projetos. 🔒
 - Projetos:
     - <a href='https://watch-party-levi-app.vercel.app/' target='_blank' >Watch Party</a>: Uma plataforma onde é possível conversar com amigos por chat enquanto assistem vídeos simultaneamente.
-    - <a href='https://clone-netflix-ten-eta.vercel.app/' target='_blank'>Clone Netflix</a>: Um site com foco no design, utilizando uma API de filmes para obter informações sobre séries e filmes populares atualmente. 
+    - <a href='https://clone-filmes-vitor.vercel.app/' target='_blank'>Clone Netflix</a>: Um site com foco no design, utilizando uma API de filmes para obter informações sobre séries e filmes populares atualmente. 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
